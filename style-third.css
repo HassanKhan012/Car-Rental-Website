@@ -1,0 +1,336 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.navbar-text {
+    width: 140px;
+    margin-left: 420px;
+    word-spacing: 20px;
+}
+
+.navbar-iconses {
+    width: 800px;
+    height: 100px;
+    margin-left: 100px;
+    background-color: aqua;
+    display: flex !important;
+    justify-content: end !important;
+    justify-self: end !important;
+    justify-items: end !important;
+
+}
+
+
+.search-box {
+    border-radius: 50px;
+    margin-left: 100px;
+    width: 400px;
+    background-color: #fff;
+    border: 1px solid rgb(192, 190, 190);
+}
+
+.input-section {
+    padding: 0px 10px;
+    border: none;
+    height: 25px;
+    border-radius: 50px;
+    outline: none;
+
+}
+
+.search-btn {
+    cursor: pointer;
+    border-style: none;
+    outline: none;
+    background-color: #989a9c;
+    height: 30px;
+    width: 30%;
+    border-radius: 50px;
+    margin-left: 73px;
+    font-size: medium;
+}
+
+.navbar-imagee-nav {
+    width: 30px;
+    height: 30px;
+}
+
+.borderline {
+    border: 1px solid rgb(225, 222, 222);
+    margin-top: 3%;
+}
+
+.sec-navbar-icons {
+    background-color: blue;
+    width: 400px;
+    height: 200px;
+}
+
+
+.form-section {
+
+    margin-left: -150px;
+    margin-top: 1030px;
+    width: 200px;
+    height: 800px;
+    position: absolute;
+}
+
+.form-design {
+    background-color: #fff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    margin-left: 20px;
+    position: relative;
+    width: 300px;
+    height: 320px;
+
+}
+
+.para-styleing {
+    font-size: 15px;
+    font-weight: 100;
+    color: #989a9c;
+}
+
+.sec-form-design {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    margin-left: 20px;
+    position: relative;
+    width: 150px;
+    height: 225px;
+
+}
+
+.third-form-design {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    margin-left: 20px;
+    position: relative;
+    width: 150px;
+    height: 100px;
+
+}
+
+.card-sections {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    width: 800px;
+    margin-left: 200px;
+}
+
+
+
+.card-group {
+    width: 1010px !important;
+    /* gap: 50px; */
+    column-gap: 50px;
+    margin-left: 200px;
+
+}
+
+
+.card-body {
+    text-align: center;
+
+}
+
+.card {
+    border-style: none;
+}
+
+
+.card-text {
+    text-align: start;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+
+.buttton {
+    color: #fff;
+    /* background-color:  #007aff; */
+    background-color: #db8309;
+    width: 80px;
+    height: 30px;
+    border-style: none;
+    border-radius: 5px;
+}
+
+
+.bigg-cont {
+    display: flex;
+    justify-content: center;
+}
+
+.small-container {
+    background-color: #007aff;
+    color: white;
+    border-style: none;
+    border-radius: 5px;
+    width: 130px;
+    font-size: small;
+    height: 30px;
+    margin-left: 150;
+    margin-top: 40px;
+}
+
+.firstly-first-cardds-container {
+    display: flex;
+    justify-content: flex-end;
+
+    height: 450px;
+}
+
+.first-cardds-container {
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    width: 1030px;
+}
+
+.cardd-pictures {
+    margin-left: 50px;
+    width: 300px;
+    margin-top: 50px;
+}
+
+.card-bodddsy {
+    width: 400px;
+    margin-left: 550px;
+    margin-top: -300px;
+    height: max-content;
+
+}
+
+.carrrd-sec-pictures {
+    margin-left: 100px;
+    width: 400px;
+    height: 300px;
+    /* background-color: #004cff; */
+    background-color: #db8309;
+    border-radius: 10px;
+
+}
+
+.fontt-dsign {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    color: rgb(0, 0, 0);
+    width: 300px;
+    font-weight: 500;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.fontt-dsigning-sec {
+    font-family: sans-serif;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    width: 250px;
+    font-weight: 200;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.checked {
+    color: orange;
+}
+
+.card-textword {
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+.table-selection-designing {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+}
+
+
+.card-textword-design {
+    margin-top: 110px;
+
+}
+
+.table-selection {
+    background-color: #fff;
+    width: 300px;
+    margin-top: -0px;
+    list-style: none;
+}
+
+
+.word-spacing-classs {
+    gap: 100px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+.type-car-sec {
+    margin-top: -100px;
+}
+
+.typeeeer {
+    margin-bottom: -500px;
+}
+
+.cardwawawa{
+    margin-top: 30px;
+}
+
+.styliineing{
+    color: #949595;
+    font-size: larger;
+    line-height: 38px;
+
+}
+
+.tabel-sec-design{
+    height: 77px;
+
+    margin-top: 50px;
+
+}
+
+
+.three-picture-sec{
+    margin-top: 30px;
+    width: 800px;
+    height: 200px;
+    margin-left: -450px;
+
+    display: flex;
+}
+
+.imaggeee-styling{
+    width: 130px;
+    height: 100px;
+    
+}
+
+
+.first-imagee-sect{
+    width: 130px;
+    height: 100px;
+    background-color: #db8309;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.jkafgksjfh{
+height: max-content;
+margin-left: 40px;
+margin-top: 35px;
+}
+
